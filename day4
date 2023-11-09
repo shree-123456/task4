@@ -1,0 +1,215 @@
+<html>
+    <head>
+        <title>
+            world cup schedule
+        </title>
+        <marquee><img src="../images/icc.jfif" height="200" width="200"><img src="../images/cric.png"></marquee>
+        <h1>CRICKET WORLD CUP 2023 STANDINGS</h1>
+        <style>
+            table,th,tr,td{
+                border:3px solid black;
+                border-collapse: collapse;
+                 }
+        </style>
+        <hr>
+        <body>
+            <table style="width:10%;">
+                <tr>
+                    <th>S.No</th>
+                    <th>Team</th>
+                    <th>Played</th>
+                    <th>Won</th>
+                    <th>lost</th>
+                    <th>Points</th>
+                    <th>NetRunRate </th>
+                </tr>
+                <tr>
+                    <td>1.</td>
+                    <td><img src="../images/india.png" height="15" width="30">India</td>
+                    <td>7</td>
+                    <td>7</td>
+                    <td>0</td>
+                    <td>14</td>
+                    <td>+2.101</td>
+                </tr>
+                <tr>
+                    <td>2.</td>
+                    <td><img src="../images/rsa.webp" height="15" width="30">South Africa</td>
+                    <td>7</td>
+                    <td>6</td>
+                    <td>1</td>
+                    <td>12</td>
+                    <td>+2.290</tr>                
+                </tr>
+                <tr>
+                    <td>3.</td>
+                    <td><img src="../images/aus.webp"height="15" width="30">Austrlia</td>
+                    <td>6</td>
+                    <td>4</td>
+                    <td>2</td>
+                    <td>8</td>
+                    <td>+o.970</td>
+                </tr>
+                <tr>
+                    <td>4.</td>
+                    <td><img src="../images/newzeland.webp" height="15" width="30">NewZewland</td>
+                    <td>7</td>
+                    <td>4</td>
+                    <td>3</td>
+                    <td>8</td>
+                    <td>+0.484</td>
+                </tr>
+                <tr>
+                    <td>5.</td>
+                    <td><img src="../images/pak.png" height="15" width="30">Pakistan</td>
+                    <td>7</td>
+                    <td>3</td>
+                    <td>4</td>
+                    <td>6</td>
+                    <td>-0.024</td>
+                </tr>
+                <tr>
+                    <td>6.</td>
+                    <td><img src="../images/afg.jpg" height="15" width="30">Afganistan</td>
+                    <td>6</td>
+                    <td>3</td>
+                    <td>3</td>
+                    <td>6</td>
+                    <td>-0.718</td>
+                </tr>
+                <tr>
+                    <td>7.</td>
+                    <td><img src="../images/sri.jfif" height="15" width="30">Sri Lanka</td>
+                    <td>7</td>
+                    <td>2</td>
+                    <td>5</td>
+                    <td>4</td>
+                    <td>-1.162</td>
+                </tr>
+                <tr>
+                    <td>8.</td>
+                    <td><img src="../images/nether.png" height="15" width="30">Netherland</td>
+                    <td>6</td>
+                    <td>2</td>
+                    <td>4</td>
+                    <td>4</td>
+                    <td>-1.277</td>
+                </tr>
+                <tr>
+                    <td>9.</td>
+                    <td><img src="../images/ban.webp" height="15" width="30">Bangladesh</td>
+                    <td>7</td>
+                    <td>1</td>
+                    <td>6</td>
+                    <td>2</td>
+                    <td>-1.446</td>
+                </tr>
+                <tr>
+                    <td>10.</td>
+                    <td><img src="../images/eng.png" height="15" width="30">England</td>
+                    <td>6</td>
+                    <td>1</td>
+                    <td>5</td>
+                    <td>2</td>
+                    <td>-1.652</td>
+                </tr>
+             </table>
+             <video width="320" height="240" muted controls>
+                <source src="../videos/WhatsApp Video 2023-11-03 at 17.23.18.mp4"type="video/mp4"/>
+            </video>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Ox49RSJ8f8E?si=iEewEQwMmQHhlYzj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+             <a href="https://www.cricbuzz.com/">LIVE SCORE</a>
+             <div><a href="https://www.cricbuzz.com/live-cricket-scores/75570/ned-vs-afg-34th-match-icc-cricket-world-cup-2023">Todays Live</a></div>
+             <table>
+             </table>
+             <hr>
+             <h1>UPCOMING MATCHS SCHEDULE</h1>
+             <details>
+                <summery>ICC RANKINGS</summery>
+                <p>1.INDIA</p>
+                <p>2.ENGLAND</p>
+                <P>3.NEWZELAND</P>
+                <P>4.AUSTRILIA</P>
+                <P>z
+             </details>
+             <table style="width:60%">
+                <tr>
+                   <size></size> <th>Date</th>
+                    <th>Match</th>
+                    <th>Venue</th>
+                </tr>
+                <tr>
+                    <td>03-11-2023</td>
+                    <td><img src="../images/nether.png" height="15" width="30">Netherland vs<img src="../images/afg.jpg"height="15"width="30">Afganistan</td>
+                    <td>Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow</td>
+                </tr>
+                <tr>
+                    <td>04-11-2023</td>
+                    <td><img src="../images/newzeland.webp"hieght="15" width="20">Newzeland vs <img src="../images/pak.png" height="=15"width="30">Pakistan
+                    <div><img src="../images/eng.png" height="15">England vs <img src="../images/aus.webp" height="15" width="30">Austrlia</div></td>
+                    <td>M.Chinnaswamy Stadium, Bengaluru
+                        <div>Narendra Modi Stadium, Ahmedabad</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>05-11-2023</td>
+                    <td><img src="../images/india.png" height="15" width="30">India vs <img src="../images/rsa.webp" height="15" width="30">SouthAfrica</td>
+                    <td>Eden Gardens, Kolkata</td>
+                </tr>
+                <tr>
+                    <td>06-11-2023</td>
+                    <td><img src="../images/ban.webp" height="15" width="30">Bangladesh vs <img src="../images/sri.jfif" height="15" width="30">Srilanka</td>
+                    <td>Narendra Modi Stadium, Ahmedabad</td>
+                </tr>
+                <tr>
+                    <td>07-11-2023</td>
+                    <td><img src="../images/aus.webp" height="15" width="30">Austrlia vs<img src="../images/afg.jpg"height="15"width="30">Afganistan</td>
+                    <td>Wankhede Stadium, Mumbai</td>
+                </tr>
+                <tr>
+                    <td>08-11-2023</td>
+                    <td><img src="../images/eng.png" height="15">England vs <img src="../images/nether.png" height="15" width="30">Netherland</td>
+                    <td>Maharashtra Cricket Association Stadium, Pune</td>
+                </tr>
+                <tr>
+                    <td>09-11-2023</td>
+                    <td><img src="../images/newzeland.webp"hieght="15" width="20">Newzeland vs<img src="../images/sri.jfif" height="15" width="30">Srilanka</td>
+                    <td>M.Chinnaswamy Stadium, Bengaluru</td>
+                </tr>
+                <tr>
+                    <td>10-11-2023</td>
+                    <td><img src="../images/rsa.webp" height="15" width="30">SouthAfrica vs <img src="../images/afg.jpg"height="15"width="30">Afganistan</td>
+                    <td>Narendra Modi Stadium, Ahmedabad</td>
+                </tr>
+                <tr>
+                    <td>11-11-2023</td>
+                    <td><img src="../images/aus.webp" height="15" width="30">Austrlia vs <img src="../images/ban.webp" height="15" width="30">Bangladesh
+                    <div><img src="../images/eng.png" height="15">England vs <img src="../images/pak.png" height="=15"width="30">Pakistan</div></td>
+                    <td>Maharashtra Cricket Association Stadium, Pune
+                        <div>Eden Gardens, Kolkata</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>12-11-2023</td>
+                    <td><img src="../images/india.png" height="15" width="30">India vs<img src="../images/nether.png" height="15" width="30">Netherland</td>
+                    <td>M.Chinnaswamy Stadium, Bengaluru</td>
+                </tr>
+                <tr>
+                    <td>15-11-2023</td>
+                    <td>TBC vs TBC, 1st Semi-Final (1st v 4th)</td>
+                    <td>Wankhede Stadium, Mumbai</td>
+                </tr>
+                <tr>
+                    <td>16-11-2023</td>
+                    <td>TBC vs TBC, 2nd Semi-Final (2nd v 3rd)</td>
+                    <td>Eden Gardens, Kolkata</td>
+                </tr>
+                <tr>
+                    <td>17-11-2023</td>
+                    <td>TBC vs TBC, Final</td>
+                    <td>Narendra Modi Stadium, Ahmedabad</td>
+                </tr>
+                </table>
+        </body>
+    </head>
+</html>
